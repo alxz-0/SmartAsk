@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Video Ouput
+output.mp4
+
+#settings.json
+.vscode
+.vscode/settings.json
